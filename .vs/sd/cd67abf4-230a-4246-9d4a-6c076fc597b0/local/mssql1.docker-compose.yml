@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  viamatica:
+    image: "mcr.microsoft.com/mssql/server:2019-latest"
+    hostname: "viamatica"
+    restart: always
+    ports: 
+        - 1436:1433
+    environment:
+      - ACCEPT_EULA="Y"
+      - SA_PASSWORD=58c868a8-c899-46b2-a31f-239e578eea25
