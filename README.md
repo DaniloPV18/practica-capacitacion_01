@@ -1,5 +1,8 @@
 # Practica C# EF Net Core
 CRUD en API desarrollada utilizando Entity Framework en C# (update No finalizado) 
+
+# Alcance
+
 •	Implementar (Swagger).
 
 •	Insertar.
@@ -14,8 +17,8 @@ CRUD en API desarrollada utilizando Entity Framework en C# (update No finalizado
 
 •	Usa EntityFramework (LinQ o Lambda).
 
+# Herramientas empleadas
 
-Herramientas empleadas
 •	Visual strudio 2022.
 
 •	SQLserver 19 (2019).
