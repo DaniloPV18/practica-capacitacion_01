@@ -1,4 +1,4 @@
-# Practica-capacitacion C# EF Net Core
+# Practica C# EF Net Core
 CRUD en API desarrollada utilizando Entity Framework en C# (update No finalizado) 
 •	Implementar (Swagger).
 
